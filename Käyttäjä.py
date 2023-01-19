@@ -4,7 +4,7 @@ kerrat = 0
 
 while kerrat < 5:
     kerrat = kerrat + 1
-    print("kerrat")
+    print(kerrat)
     user = input("käyttäjätunnus")
     pas = input("salasana")
     if käyttäjä == käyttäjä and salasana == pas:
